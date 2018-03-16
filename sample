@@ -1,5 +1,6 @@
- main()
+ void main()
 {
    printf("Hello, World!");
+   printf("New branch br1");
    return 0;
 }
